@@ -82,7 +82,6 @@ PhD in Bioinformatics - University of Cambridge and EMBL-EBI, UK
 `2016-2018`
 Msc Bioinformatics - University of Lyon 1, France.
 
-
 `2012-2016`
 Bsc Biology (Honours Evolutionary Biology) - University Of Edinburgh, UK.
 
@@ -93,12 +92,12 @@ Bsc Biology (Honours Evolutionary Biology) - University Of Edinburgh, UK.
 ### Teaching
 
 
-`2023-, ENS de Lyon`
-_[UE Advanced Genomics](https://biologie.ens-lyon.fr/masterbiosciences/presentation-ue/m2-ue-europe/ue-comparative-genomics)_ and [_UE Practicals in next generation sequencing_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS), for second-year Masters students at ENS de Lyon, France
+`ENS de Lyon 2023-`
+Masters Biosciences: [_UE Advanced Genomics_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-ue/m2-ue-europe/ue-comparative-genomics); [_UE Practicals in next generation sequencing_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS)
 
-`2019-2022, EMBL-EBI`
-_Using Workflow Management Systems (Snakemake)_ and _Introduction to High-Performance Computing_ for incoming PhD students at EMBL-EBI, UK.
-[_Why and how to develop open-source software_](https://www.ebi.ac.uk/training/events/open-access-why-build-open-source-software-and-how-do-it-successfully/), Online Webinar for all.
+`EMBL-EBI 2019-2022`
+PhD students: _Using Workflow Management Systems (Snakemake)_ and _Introduction to High-Performance Computing_
+Online webinar: [_Why and how to develop open-source software_](https://www.ebi.ac.uk/training/events/open-access-why-build-open-source-software-and-how-do-it-successfully/)
 
 
 ### Reviewing
@@ -122,7 +121,7 @@ Chair & Organiser of a monthly Seminar Series on _Molecular Evolution_ at ENS de
 Elected Board member on the Scientific Council of the LBMC Laboratory - as representative for postdocs
 
 `2023-`
-Jury member: Masters [Biosciences](https://biologie.ens-lyon.fr/masterbiosciences), ENS de Lyon; Masters [Cellular and Molecular Biology (BMC)](http://master-bmc.univ-lyon1.fr/); Masters [Bioinformatics](https://www.bioinfo-lyon.fr/), University of Lyon 1
+Jury member: ENS de Lyon Masters [Biosciences](https://biologie.ens-lyon.fr/masterbiosciences); Université Lyon 1 Masters [Cellular and Molecular Biology (BMC)](http://master-bmc.univ-lyon1.fr/) and [Bioinformatics](https://www.bioinfo-lyon.fr/)
 
 `2020`
 Organiser of the 2020 EMBL-EBI/Sanger/Cambridge University eSCAMPS Conference
@@ -130,12 +129,14 @@ Organiser of the 2020 EMBL-EBI/Sanger/Cambridge University eSCAMPS Conference
 ### Supervision
 
 `2025`
-Andrew Hsiao, second-year Masters Frontiers in Biosciences, Université Lyon 1, France
+Clara Centa, Msc Bioinformatics, Université Lyon 1, France
+
+Andrew Hsiao, Msc Frontiers in Biosciences, Université Lyon 1, France
 
 `2024`
-João Ribeiro, third-year Bsc Bioinformatics, Setubal Polytechnic University, Portugal
+João Ribeiro, Bsc Bioinformatics, Setubal Polytechnic University, Portugal
 
-Guilhem Biossé, first-year Msc Bioinformatics, Université Montpellier, France
+Guilhem Biossé, Msc Bioinformatics, Université Montpellier, France
 
 ### Outreach
 
@@ -146,32 +147,25 @@ Guilhem Biossé, first-year Msc Bioinformatics, Université Montpellier, France
 
 ### Successes
 
-`2023`
-Best Talk award at ISMB/ECCB 2023 Conference - Evolutionary and Comparative Genomics Section ($200)
+`Travel grants 2024-`
+Travel grant to ALPHY 2024 (300€); Travel grant to ESEB 2025 (700€)
 
-`2022`
-Best Talk award at JOBIM Conference (400€)
+`Best talks 2022-`
+Best Talk at ISMB/ECCB 2023 Conference (Section EvolCompGen) ($200); Best Talk award at JOBIM 2022 Conference (400€)
 
 `2018-2022`
 Postgraduate fellowship - full tuition at University of Cambridge
 
-`2018`
-Best student in Msc Bioinformatics - University of Lyon 1
+`Prize 2016-`
+Ashworth Medal for best student in Evolutionary Biology - University of Edinburgh (2016; £400); Best student in Msc Bioinformatics - University of Lyon 1 (2018)
 
-`2016`
-Ashworth Medal for best student in Evolutionary Biology - University of Edinburgh (£400)
-
-`2012-2016`
+`Fellowship 2012-2016`
 Undergraduate fellowship - full tuition at University of Edinburgh
 
 ### Unsuccesses
 
-`2024`
-Marie Skłodowska-Curie Actions Postdoc Fellowship - Rejected after written report (grade: 91.8%)
-
-`2023`
-EMBO Postdoc Fellowship - Rejected after oral interview
-
+`Fellowships 2023-`
+EMBO Postdoc Fellowship - (2023 after oral interview); Marie Skłodowska-Curie Actions Postdoc Fellowship (2024; grade 91.8%)
 
 
 <!-- ### Footer
