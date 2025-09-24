@@ -92,11 +92,11 @@ Bsc Biology (Honours Evolutionary Biology) - University Of Edinburgh, UK.
 ### Teaching
 
 
-`ENS de Lyon 2023-`
-Masters Biosciences: [_UE Advanced Genomics_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-ue/m2-ue-europe/ue-comparative-genomics); [_UE Practicals in next generation sequencing_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS)
+`2023-`
+ENS de Lyon, Masters Biosciences: [_UE Advanced Genomics_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-ue/m2-ue-europe/ue-comparative-genomics); [_UE Practicals in next generation sequencing_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS)
 
-`EMBL-EBI 2019-2022`
-PhD students: _Using Workflow Management Systems (Snakemake)_ and _Introduction to High-Performance Computing_
+`2019-2022`
+EMBL-EBI, PhD students: _Using Workflow Management Systems (Snakemake)_ and _Introduction to High-Performance Computing_
 Online webinar: [_Why and how to develop open-source software_](https://www.ebi.ac.uk/training/events/open-access-why-build-open-source-software-and-how-do-it-successfully/)
 
 
@@ -141,30 +141,30 @@ Guilhem Biossé, Msc Bioinformatics, Université Montpellier, France
 ### Outreach
 
 `2025`
-[Déclics 2025](https://www.cerclefser.org/en/the-outreach-articles/declics/) - dialogues between researchers and high-school students
+[Déclics 2025](https://www.cerclefser.org/en/the-outreach-articles/declics/) - dialogues between researchers and high-school students; Nuit de la Recherche (Saint-Etienne)
 
 ## Awards
 
 ### Successes
 
-`Travel grants 2024-`
+`2024-`
 Travel grant to ALPHY 2024 (300€); Travel grant to ESEB 2025 (700€)
 
-`Best talks 2022-`
+`2022-`
 Best Talk at ISMB/ECCB 2023 Conference (Section EvolCompGen) ($200); Best Talk award at JOBIM 2022 Conference (400€)
 
 `2018-2022`
 Postgraduate fellowship - full tuition at University of Cambridge
 
-`Prize 2016-`
+`2016-`
 Ashworth Medal for best student in Evolutionary Biology - University of Edinburgh (2016; £400); Best student in Msc Bioinformatics - University of Lyon 1 (2018)
 
-`Fellowship 2012-2016`
+`2012-2016`
 Undergraduate fellowship - full tuition at University of Edinburgh
 
 ### Unsuccesses
 
-`Fellowships 2023-`
+`2023-`
 EMBO Postdoc Fellowship - (2023 after oral interview); Marie Skłodowska-Curie Actions Postdoc Fellowship (2024; grade 91.8%)
 
 
