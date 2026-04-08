@@ -6,17 +6,13 @@ For the Markdown source, see [index.md](index.md).
 
 All boilerplate code (CSS, HTML) was copied, and the LICENCE file carried over from, https://github.com/elipapa/markdown-cv by Eliseo Papa.
 
-## Rendering the CV
+## Rendering 
 
 Two options:
 
 ### I. Use Github Pages to publish it online
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
-2. Create a new branch called `gh-pages`.
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
-
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+1. Push to `gh-branches`
 
 ### II. Build it locally and print a PDF
 
@@ -37,5 +33,3 @@ template](https://github.com/kjhealy/kjh-vita).
 
 To change the default style, simply change the variable in the
 `_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
