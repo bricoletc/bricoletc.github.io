@@ -2,6 +2,7 @@
 layout: cv
 title: CV
 ---
+
 ## Scientific Output
 
 ### Publications
@@ -13,6 +14,8 @@ Please see my <span style="color:darkblue">[google scholar](https://scholar.goog
 [delfies](https://github.com/bricoletc/delfies): Detection of double-strand breaks followed by neo-telomered addition; [Gramtools](https://github.com/iqbal-lab-org/gramtools): Genotyping highly variable loci across populations using genome graphs; [Snakefmt](https://github.com/snakemake/snakefmt): The formatter for Snakemake files
 
 ### Conferences
+`2026`
+[EMBO Molecular Mechanisms of Selfish Elements](https://meetings.embo.org/event/26-selfish-elements) - Bern, Switzerland
 
 `2025`
 [ESEB 2025](https://eseb2025.com/) - Barcelona, Spain
@@ -63,7 +66,7 @@ Bsc Biology (Honours Evolutionary Biology) - University Of Edinburgh, UK.
 
 
 `2023-`
-ENS de Lyon, Masters Biosciences: [_UE Advanced Genomics_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-ue/m2-ue-europe/ue-comparative-genomics); [_UE Practicals in next generation sequencing_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS)
+ENS de Lyon, Masters Biosciences: [_UE Advanced Genomics_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-ue/m2-ue-europe/ue-comparative-genomics); [_UE Practicals in next generation sequencing_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS); [UE Developmental Biology: New concepts and approaches](s)
 
 `2019-2022`
 EMBL-EBI, PhD students: _Using Workflow Management Systems (Snakemake)_ and _Introduction to High-Performance Computing_
@@ -98,20 +101,27 @@ Organiser of the 2020 EMBL-EBI/Sanger/Cambridge University eSCAMPS Conference
 
 ### Supervision
 
-`2025`
-Clara Centa, Msc Bioinformatics, Université Lyon 1, France
+`2026`
+Basile Bergeron, M2 ENSAT engineering school, Toulouse, France
 
-Andrew Hsiao, Msc Frontiers in Biosciences, Université Lyon 1, France
+Ihssane Bahri, M2 Msc Structural and Functional Biochemistry, Université Lyon 1, France
+
+`2025`
+Clara Centa, M1 Msc Bioinformatics, Université Lyon 1, France
+
+Andrew Hsiao, M2 Msc Frontiers in Biosciences, Université Lyon 1, France
 
 `2024`
 João Ribeiro, Bsc Bioinformatics, Setubal Polytechnic University, Portugal
 
-Guilhem Biossé, Msc Bioinformatics, Université Montpellier, France
+Guilhem Biossé, M1 Msc Bioinformatics, Université Montpellier, France
 
 ### Outreach
 
 `2025`
-[Déclics 2025](https://www.cerclefser.org/en/the-outreach-articles/declics/) - dialogues between researchers and high-school students; Nuit de la Recherche (Saint-Etienne)
+[Déclics 2025](https://www.cerclefser.org/en/the-outreach-articles/declics/) - dialogues between researchers and high-school students
+
+Nuit de la Recherche - Fête de la Science (Saint-Etienne)
 
 ## Awards
 

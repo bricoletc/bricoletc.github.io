@@ -1,7 +1,8 @@
 ---
 layout: cv
-title: Front Matter
+title:
 ---
+
 # Brice Letcher
 Researcher in Evolutionary Biology
 

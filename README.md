@@ -1,10 +1,9 @@
 This repo holds my mini-website. Published at https://bricoletc.github.io.
 
-For the Markdown source, see [index.md](index.md).
-
 ## Credit
 
-All boilerplate code (CSS, HTML) was copied, and the LICENCE file carried over from, https://github.com/elipapa/markdown-cv by Eliseo Papa.
+- Layout/template taken from: https://github.com/elipapa/markdown-cv by Eliseo Papa.
+- Uses [jekyll](https://jekyllrb.com/docs/)
 
 ## Rendering 
 
@@ -24,8 +23,6 @@ Two options:
 
 ## Styling
 
-The included CSS will render your CV in two styles:
-s
 1. `kjhealy` the original default, inspired by [kjhealy's vita
 template](https://github.com/kjhealy/kjh-vita).
 2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
