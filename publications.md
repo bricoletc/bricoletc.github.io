@@ -5,7 +5,8 @@ title: Publications
 
 ## Programmed DNA Elimination
 
-**Letcher B**, Launay C, Wenger E, Stevens L, Blaxter M, Delattre M, Duret L. A highly-conserved and duplicated motif mediates Programmed DNA Elimination in *Mesorhabditis* nematodes. <span style="color:darkblue">***In prep***</span> 
+<!--- **Letcher B**, Launay C, Wenger E, Stevens L, Blaxter M, Delattre M, Duret L. A highly-conserved and duplicated motif mediates Programmed DNA Elimination in *Mesorhabditis* nematodes. <span style="color:darkblue">***In prep***</span> 
+-->
 
 Launay C, Wenger E, <u>Letcher B</u>, Delattre M. Somatic Programmed DNA Elimination is widespread in free-living Rhabditidae nematodes 2025. biorXiv. doi:[10.1101/2025.08.21.671558](https://doi.org/10.1101/2025.08.21.671558)<span style="color:darkblue">***Under review - eLife***</span> 
 
