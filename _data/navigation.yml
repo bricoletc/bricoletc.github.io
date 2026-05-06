@@ -1,4 +1,6 @@
 - name: Home Page
   link: /
-- name: CV Page
+- name: CV
   link: /CV.html
+- name: Publications
+  link: /publications.html

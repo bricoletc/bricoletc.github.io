@@ -7,7 +7,9 @@ title: CV
 
 ### Publications
 
-Please see my <span style="color:darkblue">[google scholar](https://scholar.google.com/citations?user=4KXvLoIAAAAJ&hl=fr&oi=ao) </span> page for the complete and up-to-date list.
+Please see the publications page of this website.
+
+And for a complete and up-to-date list, please visit my <span style="color:darkblue">[google scholar](https://scholar.google.com/citations?user=4KXvLoIAAAAJ&hl=fr&oi=ao) </span> page.
 
 ### Software
 
