@@ -17,6 +17,7 @@ And for a complete and up-to-date list, please visit my <span style="color:darkb
 
 ### Conferences
 `2026`
+[The mechanistic and evolutionary basis of programmed DNA elimination - Jacques Monod Conference](https://cjm.sb-roscoff.fr/en/conference/mechanistic-and-evolutionary-basis-programmed-dna-elimination-event-concluded) - Roscoff, France;
 [EMBO Molecular Mechanisms of Selfish Elements](https://meetings.embo.org/event/26-selfish-elements) - Bern, Switzerland
 
 `2025`
@@ -68,7 +69,7 @@ Bsc Biology (Honours Evolutionary Biology) - University Of Edinburgh, UK.
 
 
 `2023-`
-ENS de Lyon, Masters Biosciences: [_UE Advanced Genomics_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-ue/m2-ue-europe/ue-comparative-genomics); [_UE Practicals in next generation sequencing_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS); [UE Developmental Biology: New concepts and approaches](s)
+ENS de Lyon, Masters Biosciences: [_UE Advanced Genomics_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-ue/m2-ue-europe/ue-comparative-genomics); [_UE Practicals in next generation sequencing_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS); [_UE Developmental Biology: New concepts and approaches_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-ue/lm1-ue-optionnelles/ue-biologie-du-developpement-nouveaux-concepts-et-approches); [_UE Scientific Communication_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-ue/ue-obligatoires/communication-scientifique)
 
 `2019-2022`
 EMBL-EBI, PhD students: _Using Workflow Management Systems (Snakemake)_ and _Introduction to High-Performance Computing_
@@ -76,6 +77,9 @@ Online webinar: [_Why and how to develop open-source software_](https://www.ebi.
 
 
 ### Reviewing
+
+`2026-`
+G3: Genes, Genomes, Genetics
 
 `2025-`
 Genome Biology and Evolution
